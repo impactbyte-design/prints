@@ -1,0 +1,22 @@
+# Shirt
+
+## Amount
+
+- Sample: 1
+- Size S: 10
+- Size M: 10
+- Size L: 10
+- Size XL: 10
+- Size XXL: 5
+- Size 3XL: 5
+
+- Total: 51 pieces
+
+## Price Range
+
+- Rp 20.000-50.000/piece
+
+## Total Price
+
+- About Rp 2.000.000-2.500.000
+
